@@ -4,3 +4,4 @@ export './IMessageTemplatesClientV1.dart';
 export './MessageTemplatesNullClientV1.dart';
 export './MessageTemplatesDirectClientV1.dart';
 export './MessageTemplatesHttpClientV1.dart';
+export './MessageTemplatesResolverV1.dart';
