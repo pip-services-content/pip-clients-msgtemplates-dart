@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-import './MessageTemplateV1.dart';
+import 'package:pip_services_msgtemplates/pip_services_msgtemplates.dart';
 
 abstract class IMessageTemplatesClientV1 {
   /// Gets a page of templates retrieved by a given filter.

@@ -1,5 +1,6 @@
 import 'package:pip_clients_msgtemplates/pip_clients_msgtemplates.dart';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
+import 'package:pip_services_msgtemplates/pip_services_msgtemplates.dart';
 
 class MessageTemplatesResolverV1 implements IReferenceable, IReconfigurable {
   MessageTemplatesResolverV1([ConfigParams config, IReferences references]) {

@@ -1,6 +1,7 @@
 import 'package:test/test.dart';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
 import 'package:pip_clients_msgtemplates/pip_clients_msgtemplates.dart';
+import 'package:pip_services_msgtemplates/pip_services_msgtemplates.dart';
 
 final TEMPLATE1 = MessageTemplateV1(
     id: '1',

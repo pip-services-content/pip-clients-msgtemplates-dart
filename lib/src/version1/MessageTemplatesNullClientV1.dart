@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-import './MessageTemplateV1.dart';
+import 'package:pip_services_msgtemplates/pip_services_msgtemplates.dart';
 import './IMessageTemplatesClientV1.dart';
 
 class MessageTemplatesNullClientV1 implements IMessageTemplatesClientV1 {
